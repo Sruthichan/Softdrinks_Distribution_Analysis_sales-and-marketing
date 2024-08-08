@@ -3,6 +3,11 @@
 Soft Drink Distribution Analysis:
 The primary goal is to analyze sales performance across different products, regions, and suppliers to identify top and low-performing areas. This analysis will help us pinpoint which products and regions generate the most revenue and understand the factors influencing these variations. By gaining insights into high and low-performing regions and the success of suppliers, we aim to refine our marketing strategies, optimize product offerings, and strengthen supplier relationships to enhance overall business performance and competitiveness.
 
+Tool: Jupyter IDE
+Database: Mysql workbench
+Database query : SQL
+Data visualization: Python
+
 Data Exploration and Profiling
 Data exploration and profiling involve analyzing and summarizing datasets to uncover insights and patterns. This process includes visualizing data to gain a comprehensive understanding of its structure and content. SQL is a powerful tool used for data exploration, enabling detailed analysis through simple queries. By utilizing Joins operators to reference columns and matching primary keys across tables, SQL helps in efficiently querying and exploring the data. The high-level narrative of the business description is as follows:
 
